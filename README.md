@@ -12,6 +12,8 @@ It encapsulates the complexity of autoscaling, networking, health checking, and 
 
 ![KFServing](/docs/diagrams/kfserving.png)
 
+This is a test1 
+
 ### Architecture Review
 [Control Plane and Data Plane](./docs/README.md)
 
